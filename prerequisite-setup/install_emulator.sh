@@ -1,9 +1,10 @@
 #!/bin/bash
-
 SDK_DIR="$HOME/Downloads/.android_sdk"
 SDK_ZIP_PATTERN="commandlinetools-linux-*_latest.zip"
 SDK_ZIP_PATH=""
 
+echo "Downloading jdk..."
+sudo apt install -y openjdk-11-jdk
 echo "Please download the Android SDK command line tools from the following URL:"
 echo "(Scroll down to 'Command line tools only' section and download commandlinetools-linux_xxxxxxxx_latest.zip.)"
 echo "https://developer.android.com/studio#downloads"
