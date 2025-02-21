@@ -2,7 +2,7 @@
 ### Automatic setup guide
 - Download [install_emulator.sh](https://github.com/heet-1011/Android-Apk-Analysis/blob/main/prerequisite-setup/install_emulator.sh)
 - Give executable permission using `chmod +x install_emulator.sh`
-- Execute : `./install_emulator.sh`
+- Execute : `./install_emulator.sh` (While executing this it will ask for the downloading command line tools, so just goto the given link, scroll down to command line tools only section and download the command line tools for linux)
 - Once AVD is successfully installed Download [root_emulator.sh](https://github.com/heet-1011/Android-Apk-Analysis/blob/main/prerequisite-setup/root_emulator.sh)
 - Give executable permission using `chmod +x root_emulator.sh`
 - Execute : `./root_emulator.sh` (Note : While executing this script, manual inputs are required at certain points. Please pay close attention to all lines in the console that are surrounded by '-----------------------------' lines, as these indicate areas where input is needed. Additionally, ensure that you monitor any pop-up windows in the AVD during this process.)
