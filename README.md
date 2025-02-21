@@ -4,6 +4,7 @@
 [Setup Guide](https://github.com/heet-1011/Android-Apk-Analysis/blob/main/prerequisite-setup/README.md)
 
 ## Dynamic Analysis
+- Open terminal and move to Downloads directory `cd $HOME/Downloads`
 - Clone src code directory `git clone https://github.com/heet-1011/Android-Apk-Analysis.git`
 - Move to directory `cd Android-Apk-Analysis/src` 
 - Create python venv `python -m venv analysis`
