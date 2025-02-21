@@ -7,6 +7,8 @@
 - `sudo apt install jd-gui`
   
 ## Static Analysis
+- Add this file to `~/.zshrc` file `export PATH=$PATH:$HOME/Downloads/.android_sdk/build-tools/29.0.2`
+- source `~/.zshrc`
 - Decompile APK : `apktool d report.apk -o decompiled_app`
 <br> or 
 - Decompile APK without decompiling src code
