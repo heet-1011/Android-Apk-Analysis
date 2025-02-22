@@ -29,4 +29,4 @@
 - Install required libraries `pip install -r requirements.txt`
 - Download frida-server from this [here](https://drive.google.com/file/d/1NMFJfguxQHO2QNnIw7g0JbWsN0lkeqqh/view?usp=sharing) and move it to src folder. 
 - Execute script `python dynamic_analysis.py`
-- Once script is executed successfully, all generated logs will be stored at `$HOME/Downloads/dynamic-analysis` directory.
+- Once script is executed successfully, all generated logs (System calls, Network Trces, API calls) will be stored at `$HOME/Downloads/dynamic-analysis` directory.
