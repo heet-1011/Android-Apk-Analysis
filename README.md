@@ -1,5 +1,5 @@
 # Android-Apk-Analysis
-
+Apk Analysis Material designed for Network Security Bootcamp / Faculty Updation Program 2025 under ISEA phase 3 at IIT Hyderabad.
 ## Prerequisite Setup
 - [Setup Guide](https://github.com/heet-1011/Android-Apk-Analysis/blob/main/prerequisite-setup/README.md)
 - `sudo apt install apktool`
