@@ -1,11 +1,12 @@
 # Android-Apk-Analysis
 Apk Analysis Material designed for Network Security Bootcamp / Faculty Updation Program 2025 under ISEA phase 3 at IIT Hyderabad.
+- [Video Guide for Dynamic Analysis (with setup)](https://drive.google.com/file/d/16AjaCmq7nECxgZHUMB_CZV_ObJwgUQ9J/view?usp=sharing)
 ## Prerequisite Setup
 - [Setup Guide](https://github.com/heet-1011/Android-Apk-Analysis/blob/main/prerequisite-setup/README.md)
 - `sudo apt install apktool`
 - `sudo apt install dex2jar`
 - `sudo apt install jd-gui`
-  
+
 ## Static Analysis
 - Add this file to `~/.zshrc` file `export PATH=$PATH:$HOME/Downloads/.android_sdk/build-tools/29.0.2`
 - source `~/.zshrc`
